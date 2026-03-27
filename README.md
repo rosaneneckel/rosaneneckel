@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Prazer, sou a Rosane!!👋
 
-<!--
-**rosaneneckel/rosaneneckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Acadêmica do Curso de [Sistemas para Internet na UNIESP]
+💻 Focada em [Desenvolver habilidades técnicas em Lógica de Programação, Análise de Dados, Qualidade e Segurança de Dados...]
+🚀 Em transição de carreira, com mais de 15 anos de experiência profissional.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Metologias já abordadas na graduação
+- Python
+- HTML, CSS, JavaScript
+- Java
+- Git e GitHub
+- Scrum e Kanban
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🔗 [Projeto 1](lhttps://github.com/P1-Uniesp/portifolio_mayara_dev_karlla_e_rosane/tree/mainink)
+
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/rosane-neckel/
+- Email: rosane@neckel.tech
