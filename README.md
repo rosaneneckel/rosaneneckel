@@ -7,7 +7,7 @@
 🚀 Focada em desenvolvimento, análise de dados e boas práticas
 </p>
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Tenho mais de 15 anos de experiência profissional e atualmente estou em transição para a área de tecnologia, desenvolvendo habilidades em:
 
