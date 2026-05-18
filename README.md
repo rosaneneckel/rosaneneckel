@@ -17,7 +17,7 @@ Tenho mais de 15 anos de experiência profissional e atualmente estou em transi�
 - Estrutura de Dados
 - Qualidade e Segurança de Dados
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Desenvolvendo Conhecimento e Habilidades em:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
